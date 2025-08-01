@@ -35,9 +35,14 @@ header{
   color: green;
   font-weight: bolder;
 }
-
+body{
+  min-height: 100vh;
+}
 
 /* body  */
+.contenedor{
+  min-height: 100vh;
+}
 .principal{
   width: 85%;
   margin:30px auto;
@@ -102,25 +107,25 @@ button{
 }
 .mostrar{
   display: flex;
-
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 /*footer*/
 footer{
   background-color: black;
   width: 100%;
   color: white;
-  display: grid;
+  display: flex;
+  justify-content: space-around;
   align-items: center;
-  padding: 3px 0;
-  grid-template-columns: repeat(10,1fr);
+  padding: 3px 0 3px 0;
 }
 .footer-img{
   width: 20px;
-  grid-column: 2/3;
 }
 .footer-t{
   text-align: center;
-  grid-column: 4/10;
   font-style: italic;
   font-size: small;
 }
