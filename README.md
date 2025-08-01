@@ -7,9 +7,7 @@
 </h4>
    <a>vista de proyecto</a>
    <p>https://eosorto.github.io/juego-x0/</a>
-   <h2>AGRADECIMIENTOS ESPECIALES </h2>
+   
+   <h2>Juego de X 0</h2>
    <p>https://www.youtube.com/@soyjab/featured</p>
-    <p>https://www.aluracursos.com/</p>
-    <p>https://www.youtube.com/@FalconMasters</p>
-    <p>https://www.youtube.com/@freecodecampespanol</p>
-    <p>https://www.youtube.com/@bluuweb</p>
+    <p>Juego online para diversion online donde podras entretenerte junto a tus amigos con el juego mas antiguo y adictivo.</p>
