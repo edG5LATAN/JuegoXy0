@@ -1,15 +1,9 @@
-# juego-x0<h1 align="center"> Proyecto de juego de X y 0  </h1>
- <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%50DESAROLLO-blue">
-   </p>
-   <h4 align="center">
-:construction: Proyecto en fase final :construction:
-</h4>
-   <a>vista de proyecto</a>
-   <p>https://eosorto.github.io/juego-x0/</a>
-   <h2>AGRADECIMIENTOS ESPECIALES </h2>
-   <p>https://www.youtube.com/@soyjab/featured</p>
-    <p>https://www.aluracursos.com/</p>
-    <p>https://www.youtube.com/@FalconMasters</p>
-    <p>https://www.youtube.com/@freecodecampespanol</p>
-    <p>https://www.youtube.com/@bluuweb</p>
+# JUEGO ONLINE-X, 0
+![Logo](https://i.pinimg.com/736x/3a/dd/8b/3add8be4946954c875cdc2059c4b0d44.jpg)
+
+## Desplegado
+aca puedes ver ya el proyecto desplegado 
+[Proyecto](https://edg5latan.github.io/JuegoXy0/)
+
+## Proyecto de Juego Online
+Aplicacion de juego online donde podras disfrutar del mejor juego y mas antiguo donde podras divertirte con tus amigos.
