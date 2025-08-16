@@ -20,47 +20,39 @@ const btnPuslsar=(e,pos)=>{
 const verificar=(color)=>{
   let variab
   if(color=='red'){
-    variab='GANASTE ROJO'
+    variab='GANASTE CON EL COLOR ROJO'
   }else{
-    variab='GANASTE VERDE'
+    variab='GANASTE CON EL COLOR VERDE'
   }
   if(tablero[0]==tablero[1]&&tablero[1]==tablero[2]&&tablero[0]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
     
   }
   else if(tablero[3]==tablero[4]&&tablero[4]==tablero[5]&&tablero[3]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[6]==tablero[7]&&tablero[7]==tablero[8]&&tablero[6]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[0]==tablero[3]&&tablero[3]==tablero[6]&&tablero[0]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[1]==tablero[4]&&tablero[4]==tablero[7]&&tablero[1]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[2]==tablero[5]&&tablero[5]==tablero[8]&&tablero[2]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[0]==tablero[4]&&tablero[4]==tablero[8]&&tablero[0]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
   else if(tablero[2]==tablero[4]&&tablero[4]==tablero[6]&&tablero[2]){
-    // console.log('ganaste'+`con el color ${variab}`)
     ganador1(`${color}`,variab)
 
   }
