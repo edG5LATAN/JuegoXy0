@@ -42,6 +42,7 @@ body{
 /* body  */
 .contenedor{
   min-height: 100vh;
+  
 }
 .principal{
   width: 85%;
@@ -50,6 +51,7 @@ body{
   border-radius: 5px;
   padding: 20px;
   text-align: center;
+  position: relative;
 }
 h2{
   padding: 10px 0;
@@ -74,7 +76,7 @@ h2{
   justify-content: space-evenly;
   
 }
-button{
+.btn{
   width: 100px;
   height: 100px;
   font-size: 35px;
@@ -130,3 +132,26 @@ footer{
   font-size: small;
 }
 
+/* boton de reseteo */
+.btn_reset{
+  width: 100px;
+  padding: 5px 0;
+  border-radius: 10px;
+  background-color: white;
+  color: green;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-family: fantasy;
+
+}
+.btn_reset:hover{
+  cursor: pointer;
+  box-shadow: 0px 0px 4px 1px;
+}
+
+/* background para empate */
+.background-grey{
+  background-color: rgb(14, 117, 219);
+}
